@@ -1,8 +1,14 @@
 
-django GraphQL
+Django GraphQL
 ==============
 
-django ORM GraphQL integration.
+Django ORM GraphQL integration.
+
+
+TODO
+----
+
+* [ ] graphqlengine.query.QueryEngine
 
 
 GraphQL
